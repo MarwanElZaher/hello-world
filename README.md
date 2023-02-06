@@ -3,7 +3,7 @@
 lets try it here 
 my first repository, here is my ideas, resources and for discussing many things.
 
----
+---------------------------------------------------------------------------------------------
 
 ## Here is how to use markdown
 
@@ -13,13 +13,14 @@ my first repository, here is my ideas, resources and for discussing many things.
 
 *putting "###" means H3
 
-***
+***********************************************************************************************
+### Some tips and tricks
 
 _italic_ *italic* using "* or _" at the beginning and at the end of the word or sentence.
 
 __bold__ **bold** using "** or__" at the beginning and at the end of the word or sentence.
 
-*in order to use italic and bold 
+* in order to use italic and bold 
 
 put ""__*"here is the word"*__""
 
@@ -31,13 +32,13 @@ ___
 
  1. first
 
- 2.secomd
+ 2. secomd
 
- 3.third
+ 3. third
 
-+using asteriskis"*"
++ using asteriskis"*"
 
--plus or minus
+- plus or minus
 [link for my twitter]: https://twitter.com/marawanmzaher
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
